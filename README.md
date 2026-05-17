@@ -1,19 +1,19 @@
 # 👋 Hi, I'm Zaid
 
-## Android Developer | Kotlin | Mobile App Builder
+## Android Developer (Jetpack Compose + Firebase) | I build and fix Android apps
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-Android-blue)
 ![Android](https://img.shields.io/badge/Android-Studio-green)
 ![Firebase](https://img.shields.io/badge/Firebase-Learning-orange)
 
-I build modern Android applications focused on learning, productivity, and real-world usability.
+I develop Android applications using Jetpack Compose and Firebase, focusing on clean UI, backend integration, and real-world features like quizzes, authentication, and progress tracking.
 
 ---
 
 ## 🚀 Featured Project
 
 ### 📱 Bible & Quran Mastery
-An Android app that helps users learn, read, and test knowledge through interactive quizzes and structured lessons.
+A production-style Android learning app built with Jetpack Compose and Firebase, featuring quizzes, structured lessons, and user progress tracking. Available on Google Play.
 
 🔗 https://github.com/zaididdrisu193-lgtm/Bible-Quran-Mastery
 
@@ -24,7 +24,7 @@ An Android app that helps users learn, read, and test knowledge through interact
 - Kotlin  
 - Android Studio  
 - Jetpack Compose / XML  
-- Firebase (learning stage)  
+- Firebase 
 - Git & GitHub  
 
 ---
@@ -39,10 +39,11 @@ An Android app that helps users learn, read, and test knowledge through interact
 
 - Building real-world Android apps  
 - Improving UI/UX design  
-- Learning backend integration (Firebase)  
+- Backend integration (Firebase)  
 - Preparing for Play Store publishing  
 
 ---
+What services you offer
 
 ## 📫 Contact
 
